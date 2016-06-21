@@ -4,6 +4,8 @@
 
 Use Express to write a basic to-do list app. Most features are up to you, but you must be able to add new list items.
 
+Run `express -e todo_app` inside your forked/cloned HW repository to begin.
+
 ### Required Routes
 
 * GET `/items`: Displays all items
