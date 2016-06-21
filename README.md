@@ -16,5 +16,6 @@ Run `express -e todo_app` inside your forked/cloned HW repository to begin.
 
 * Styling!
 * Add images or GIFs to to-do list items
-* Editing a list item
+* Object-orientation
+  * You'll want to make the constructor function in `item.js` in a `models` folder.
 * Up to you!
