@@ -2,7 +2,7 @@
 
 ### More Express Practice!
 
-Use Express to write a basic to-do list app. Most features are up to you, but you must be able to add new list items.
+Use Express to write a basic to-do list app. Most features are up to you, but you must be able to add new list items. Also, each GET request must use `res.render`. No more `res.send` responses!!
 
 Run `express -e todo_app` inside your forked/cloned HW repository to begin.
 
