@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>To Do List</h1>
+    <ul class="todo">
+      <% todolist.forEach(function(item){ %>
+       <li><%= item.todo %></li>
+      <% }) %>
+    </ul>
+    <p></p>
+  </body>
+</html>
